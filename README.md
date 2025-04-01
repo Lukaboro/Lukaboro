@@ -28,6 +28,7 @@ AI Document Summarizer — A customizable document summarization tool for financ
 
 📫 Let's connect
 
+I'm based in Belgium, happy to connect globally.
 If you're working on financial well-being, fintech, or other exciting stuff — I'm always open for collaboration, sparring, or learning new perspectives.
 
 🔗 LinkedIn🌍 www.oudeschoolkaarten.be
