@@ -2,6 +2,7 @@ Hi there, I'm Pieter De Knock 👋
 
 Welcome to my GitHub profile!I am a strategic thinker with a long career in investments, asset management, and product & concept development. Today, I am diving deep into Artificial Intelligence, looking for creative crossovers between finance and AI to build tools and solutions that improve financial communication, decision-making, education,...
 
+
 🚀 Current Focus
 
 📌 Self-studying AI & Machine Learning, with a strong interest in business applications.
@@ -17,11 +18,13 @@ Besides finance & AI, I also run a passion project around vintage education wall
 
 🗺️ www.oudeschoolkaarten.be — An online store for old school maps and classroom posters.
 
+
 📂 Featured Projects
 
 AI Document Summarizer — A customizable document summarization tool for finance & beyond.
 
 (More projects coming soon)
+
 
 📫 Let's connect
 
